@@ -3,5 +3,7 @@
 
 int main(void)
 {
-  printf("hello world\n");
+  	// make hello world capitalized
+	// and add exclimation mark
+	printf("Hello World!\n");
 }
